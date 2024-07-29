@@ -1,0 +1,7 @@
+export {home} from './images/home'
+export {album} from './images/album'
+export {notFound} from './images/notFound'
+export {payment} from './images/payment'
+export {cart} from './images/cart'
+export {photoSlider} from './images/photoSlider'
+export {createAlbum} from './images/createAlbum'

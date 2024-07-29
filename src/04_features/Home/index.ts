@@ -1,0 +1,6 @@
+export {Start} from './ui/Start'
+export {Portfolio} from './ui/Portfolio'
+export {Banner} from './ui/Banner'
+export {Schedule} from './ui/Schedule'
+export {Contacts} from './ui/Contacts'
+export {Prices} from './ui/Prices'
